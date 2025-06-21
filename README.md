@@ -1,2 +1,2 @@
-# Wateequalityprediction_AICTE
+# Waterqualityprediction_AICTE
  Week 1 project
