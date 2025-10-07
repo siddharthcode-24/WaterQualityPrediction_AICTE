@@ -24,11 +24,11 @@ Database: CSV / SQL (for storing water quality data)
 **Installation**
 
 ```Clone the repository:
-git clone https://github.com/yourusername/water-quality-prediction.git
+git clone https://github.com/yourusername/WaterQualityPrediction_AICTE.git
 ```
 
 ```Navigate to the project folder:
-cd water-quality-prediction
+cd WaterQualityPrediction_AICTE
 ```
 ```Install required dependencies:
 pip install -r requirements.txt
