@@ -29,22 +29,22 @@ The **Water Quality Prediction System** is an intelligent application designed t
    git clone https://github.com/yourusername/water-quality-prediction.git
 Navigate to the project folder:
 
-bash
+```bash
 Copy code
 cd water-quality-prediction
 Install required dependencies:
 
-bash
+```bash
 Copy code
 pip install -r requirements.txt
 Run the application:
 
-bash
+```bash
 Copy code
 streamlit run app.py
 or
 
-bash
+```bash
 Copy code
 python app.py
 Usage
