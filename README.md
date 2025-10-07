@@ -24,7 +24,7 @@ Database: CSV / SQL (for storing water quality data)
 **Installation**
 
 ```Clone the repository:
-git clone https://github.com/yourusername/WaterQualityPrediction_AICTE.git
+git clone https://github.com/siddharthcode-24/WaterQualityPrediction_AICTE.git
 ```
 
 ```Navigate to the project folder:
