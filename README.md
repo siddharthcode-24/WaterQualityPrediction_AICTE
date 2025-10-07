@@ -1,9 +1,9 @@
-Water Quality Prediction System 🌊💧
-Overview
+**Water Quality Prediction System 🌊💧**
+**Overview**
 
 The Water Quality Prediction System is an intelligent application designed to predict the quality of water based on various chemical and physical parameters. Using machine learning techniques, the system classifies water as safe or unsafe for consumption, helping authorities, industries, and communities ensure water safety.
 
-Features
+**Features**
 
 Predict Water Quality: Classifies water as safe or unsafe using machine learning models.
 Data-Driven Insights: Analyzes important water parameters such as pH, turbidity, hardness, etc.
@@ -11,7 +11,7 @@ Interactive Interface: Allows users to input water parameters and receive instan
 Visualization: Provides graphs and charts for data analysis and trends.
 Scalable: Can be extended to include real-time sensor data.
 
-Technologies Used
+**Technologies Used**
 
 Programming Language: Python
 Libraries/Frameworks:
@@ -21,7 +21,7 @@ matplotlib, seaborn → Data visualization
 Flask/Streamlit → Web interface (if applicable)
 Database: CSV / SQL (for storing water quality data)
 
-Installation
+**Installation**
 
 ```Clone the repository:
 git clone https://github.com/yourusername/water-quality-prediction.git
@@ -38,13 +38,13 @@ streamlit run app.py
 
 ```
 
-Usage
+**Usage**
 Open the application in your browser.
 Input the water parameters: pH, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic Carbon, Trihalomethanes, Turbidity, etc.
 Click Predict to see the water quality result.
 Optionally, visualize trends and insights from historical data.
 
-Dataset
+**Dataset**
 
 The system uses a dataset containing water quality parameters and quality labels.
 
@@ -80,7 +80,7 @@ License
 
 This project is licensed under the MIT License.
 
-Contact
+**Contact**
 Developer: Siddharth Bajaj
 
 Email:siddharthbajaj24@gmail.com
