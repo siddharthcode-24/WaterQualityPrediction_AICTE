@@ -1,4 +1,4 @@
-**Water Quality Prediction System 🌊💧**
+#**Water Quality Prediction System**🌊💧
 **Overview**
 
 The Water Quality Prediction System is an intelligent application designed to predict the quality of water based on various chemical and physical parameters. Using machine learning techniques, the system classifies water as safe or unsafe for consumption, helping authorities, industries, and communities ensure water safety.
